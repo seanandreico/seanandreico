@@ -1,5 +1,5 @@
 <p float="left" align="center">
-     <img src="https://img.freepik.com/free-photo/laptop-half-closed-dark-with-colourful-glow-glasses-paper-cup_169016-33951.jpg?w=1380&t=st=1702882495~exp=1702883095~hmac=d4a49477e26359ce9a28f42e85ebbb69d3b030bbb4a0268cc8cd555ea1b8834a" width="1000" alt="Image by pikisuperstar"/>
+     <img src="https://www.nist.gov/sites/default/files/styles/960_x_960_limit/public/images/2017/10/25/Tech-Trends-BlogFeaturedImage702x330.jpg?itok=KixvxpZB" width="650" alt="Image by pikisuperstar"/>
 </p>
 <h1 align="center">Hi 👋🏼, I'm Sean!</h1>
 <h3 align="center">I am a licensed Electronics Engineer who is incredibly passionate about technology and brings into play its countless applications to different industries. My goal is to better myself everyday in the fields of Data Science, Machine Learning, and Cloud Computing.</h3>
